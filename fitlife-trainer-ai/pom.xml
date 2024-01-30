@@ -7,7 +7,7 @@
         <artifactId>central-platform</artifactId>
         <version>1.0.0</version>
     </parent>
-    <artifactId>trainer-ai</artifactId>
+    <artifactId>fitlife-trainer-ai</artifactId>
     <version>1.0.0</version>
     <name>trainer-ai</name>
     <description>Personal Trainer for FitLife</description>

@@ -25,14 +25,10 @@ public class CustomAuthenticationProvider implements AuthenticationProvider {
 		String username = authentication.getName();
 		String password = authentication.getCredentials().toString();
 		UserDetails user = userService.loadUserByUsername(username);
-
 		String passDB = user.getPassword();
+
 		if (passwordEncoder.matches(password, passDB)) {
 			List<GrantedAuthority> grand = new ArrayList<>();
-//			Collection<Role> listRole = userDB.getRoles();
-//			for (Role r : listRole) {
-//				grand.add(new SimpleGrantedAuthority(r.getNameRole()));
-//			}
 			return new UsernamePasswordAuthenticationToken(username, passDB, grand);
 		} else
 			throw new BadCredentialsException("Password incorrect");

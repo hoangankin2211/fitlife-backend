@@ -4,15 +4,240 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d06ca6-e544-4ca7-89da-2274c04f5a1c" name="Changes" comment="fix: fixed bug of run model">
+    <list default="true" id="2e7ef3ef-1f65-4204-ba99-4623bb3a4992" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/src/main/java/com/fitlife/eureka/FitlifeEurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-eureka/src/test/java/com/fitlife/eureka/FitlifeEurekaApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/src/main/java/com/fitlife/gateway/FitlifeGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/src/main/java/com/fitlife/gateway/Jersey3TransportClientFactoriesConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fitlife-gateway/src/test/java/com/fitlife/gateway/FitlifeGatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FitLife.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/91be148f-3c0c-4f59-96e5-5ebb7e119658.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/91be148f-3c0c-4f59-96e5-5ebb7e119658/storage_v2/_src_/database/uwtdfsreijjqwwvglrlc.CEncDg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/91be148f-3c0c-4f59-96e5-5ebb7e119658/storage_v2/_src_/database/uwtdfsreijjqwwvglrlc.CEncDg/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/91be148f-3c0c-4f59-96e5-5ebb7e119658/storage_v2/_src_/database/uwtdfsreijjqwwvglrlc.CEncDg/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/91be148f-3c0c-4f59-96e5-5ebb7e119658/storage_v2/_src_/database/uwtdfsreijjqwwvglrlc.CEncDg/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/91be148f-3c0c-4f59-96e5-5ebb7e119658/storage_v2/_src_/database/uwtdfsreijjqwwvglrlc.CEncDg/schema/public.abK9xQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fitlife-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-app/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fitlife-app/src/main/java/com/fitlife/app/dataClass/dto/trainer/TrainerDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-app/src/main/java/com/fitlife/app/dataClass/dto/trainer/TrainerDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fitlife-app/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitlife-app/src/main/java/com/fitlife/app/security/CustomAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-app/src/main/java/com/fitlife/app/security/CustomAuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/configs/OkHttpConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/configs/OkHttpConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/configs/RetrofitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/configs/RetrofitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/configs/TrainerMapperConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/configs/TrainerMapperConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/OpenAiApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/OpenAiApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/OpenAiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/OpenAiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/Assistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/Assistant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantFileRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantFileRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantSortOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantSortOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantToolsEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/AssistantToolsEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/ModifyAssistantRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/ModifyAssistantRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/assistants/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/assistants/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionChunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionChunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/CompletionResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/LogProbResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/LogProbResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionChunk.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionChunk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatCompletionResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionDynamic.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionDynamic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionProperty.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatFunctionProperty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatMessageRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/completion/chat/ChatMessageRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/embedding/Embedding.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/embedding/Embedding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/embedding/EmbeddingRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/embedding/EmbeddingRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/embedding/EmbeddingResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/embedding/EmbeddingResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/embedding/Usage.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/embedding/Usage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/file/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/file/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/MessageContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/MessageContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/MessageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/MessageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/content/Annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/content/Annotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/content/FileCitation.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/content/FileCitation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/content/FilePath.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/content/FilePath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/content/ImageFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/content/ImageFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/message/content/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/message/content/Text.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/CreateThreadAndRunRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/CreateThreadAndRunRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/MessageCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/MessageCreation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/RequiredAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/RequiredAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/RunCreateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/RunCreateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/RunImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/RunImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/RunStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/RunStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/StepDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/StepDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/SubmitToolOutputRequestItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/SubmitToolOutputRequestItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/SubmitToolOutputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/SubmitToolOutputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/SubmitToolOutputsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/SubmitToolOutputsRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCallCodeInterpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCallCodeInterpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCallCodeInterpreterOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCallCodeInterpreterOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCallFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/runs/ToolCallFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/threads/Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/threads/Thread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/api/threads/ThreadRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/api/threads/ThreadRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/common/DeleteResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/common/DeleteResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/common/LastError.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/common/LastError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/common/ListSearchParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/common/ListSearchParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/common/Usage.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/common/Usage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/errors/OpenAiError.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/errors/OpenAiError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/models/errors/OpenAiHttpException.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/models/errors/OpenAiHttpException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/service/OpenAiBaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/service/OpenAiBaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/service/OpenAiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/service/OpenAiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/utils/StreamFlowUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/utils/StreamFlowUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/utils/interceptor/AuthenticationInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/utils/interceptor/AuthenticationInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/utils/observable/CompletionEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/utils/observable/CompletionEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/utils/observable/CompletionEventFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/utils/observable/CompletionEventFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/java/com/trainer/utils/observable/CompletionResponseCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/java/com/trainer/utils/observable/CompletionResponseCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/src/test/resources/Personal Trainer_3rd Edition_Text.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/src/test/resources/Personal Trainer_3rd Edition_Text.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/configs/OkHttpConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/configs/OkHttpConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/configs/RetrofitConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/configs/RetrofitConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/configs/TrainerMapperConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/configs/TrainerMapperConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/OpenAiApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/OpenAiApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/OpenAiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/OpenAiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/Assistant.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/Assistant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFileRequest$AssistantFileRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFileRequest$AssistantFileRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFileRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFileRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFunction$AssistantFunctionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFunction$AssistantFunctionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantRequest$AssistantRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantRequest$AssistantRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantSortOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantSortOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantToolsEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/AssistantToolsEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/ModifyAssistantRequest$ModifyAssistantRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/ModifyAssistantRequest$ModifyAssistantRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/ModifyAssistantRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/ModifyAssistantRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/assistants/Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/assistants/Tool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/CompletionChoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/CompletionChoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/CompletionChunk.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/CompletionChunk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/CompletionRequest$CompletionRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/CompletionRequest$CompletionRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/CompletionRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/CompletionRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/CompletionResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/CompletionResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/LogProbResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/LogProbResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionChoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionChoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionChunk.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionChunk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest$ChatCompletionRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest$ChatCompletionRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest$ChatCompletionRequestFunctionCall$ChatCompletionRequestFunctionCallBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest$ChatCompletionRequestFunctionCall$ChatCompletionRequestFunctionCallBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest$ChatCompletionRequestFunctionCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest$ChatCompletionRequestFunctionCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatCompletionResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunction$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunction$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionDynamic$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionDynamic$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionDynamic.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionDynamic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionProperty$ChatFunctionPropertyBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionProperty$ChatFunctionPropertyBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatFunctionProperty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatMessage$ChatMessageBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatMessage$ChatMessageBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatMessageRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/completion/chat/ChatMessageRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/embedding/Embedding.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/embedding/Embedding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/embedding/EmbeddingRequest$EmbeddingRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/embedding/EmbeddingRequest$EmbeddingRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/embedding/EmbeddingRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/embedding/EmbeddingRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/embedding/EmbeddingResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/embedding/EmbeddingResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/embedding/Usage.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/embedding/Usage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/file/File.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/file/File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/Message$MessageBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/Message$MessageBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/MessageContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/MessageContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/MessageRequest$MessageRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/MessageRequest$MessageRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/MessageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/MessageRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/content/Annotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/content/Annotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/content/FileCitation.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/content/FileCitation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/content/FilePath.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/content/FilePath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/content/ImageFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/content/ImageFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/message/content/Text.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/message/content/Text.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/CreateThreadAndRunRequest$CreateThreadAndRunRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/CreateThreadAndRunRequest$CreateThreadAndRunRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/CreateThreadAndRunRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/CreateThreadAndRunRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/MessageCreation$MessageCreationBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/MessageCreation$MessageCreationBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/MessageCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/MessageCreation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RequiredAction$RequiredActionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RequiredAction$RequiredActionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RequiredAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RequiredAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/Run$RunBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/Run$RunBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/Run.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/Run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RunCreateRequest$RunCreateRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RunCreateRequest$RunCreateRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RunCreateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RunCreateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RunImage$RunImageBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RunImage$RunImageBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RunImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RunImage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RunStep$RunStepBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RunStep$RunStepBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/RunStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/RunStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/StepDetails$StepDetailsBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/StepDetails$StepDetailsBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/StepDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/StepDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputRequestItem$SubmitToolOutputRequestItemBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputRequestItem$SubmitToolOutputRequestItemBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputRequestItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputRequestItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputs$SubmitToolOutputsBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputs$SubmitToolOutputsBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputs.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputsRequest$SubmitToolOutputsRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputsRequest$SubmitToolOutputsRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputsRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/SubmitToolOutputsRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCall$ToolCallBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCall$ToolCallBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCall.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreter$ToolCallCodeInterpreterBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreter$ToolCallCodeInterpreterBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreter.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreterOutput$ToolCallCodeInterpreterOutputBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreterOutput$ToolCallCodeInterpreterOutputBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreterOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallCodeInterpreterOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallFunction$ToolCallFunctionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallFunction$ToolCallFunctionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/runs/ToolCallFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/threads/Thread.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/threads/Thread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/threads/ThreadRequest$ThreadRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/threads/ThreadRequest$ThreadRequestBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/api/threads/ThreadRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/api/threads/ThreadRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/common/DeleteResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/common/DeleteResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/common/LastError$LastErrorBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/common/LastError$LastErrorBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/common/LastError.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/common/LastError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/common/ListSearchParameters$ListSearchParametersBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/common/ListSearchParameters$ListSearchParametersBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/common/ListSearchParameters$Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/common/ListSearchParameters$Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/common/ListSearchParameters.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/common/ListSearchParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/common/Usage.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/common/Usage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/errors/OpenAiError$OpenAiErrorDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/errors/OpenAiError$OpenAiErrorDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/errors/OpenAiError.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/errors/OpenAiError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/models/errors/OpenAiHttpException.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/models/errors/OpenAiHttpException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/service/OpenAiBaseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/service/OpenAiBaseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/service/OpenAiService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/service/OpenAiService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/service/OpenAiService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/service/OpenAiService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/service/OpenAiService$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/service/OpenAiService$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/service/OpenAiService$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/service/OpenAiService$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/service/OpenAiService.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/service/OpenAiService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/utils/StreamFlowUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/utils/StreamFlowUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/utils/interceptor/AuthenticationInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/utils/interceptor/AuthenticationInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/utils/observable/CompletionEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/utils/observable/CompletionEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/utils/observable/CompletionEventFormatException.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/utils/observable/CompletionEventFormatException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/classes/com/trainer/utils/observable/CompletionResponseCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/classes/com/trainer/utils/observable/CompletionResponseCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/test-classes/Personal Trainer_3rd Edition_Text.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/test-classes/Personal Trainer_3rd Edition_Text.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainer-ai/target/trainer-ai-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/fitlife-trainer-ai/target/trainer-ai-1.0.0.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,82 +247,41 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
-        <option value="Dockerfile" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JpbToolWindowState">
-    <option name="isToolWindowVisible" value="false" />
-  </component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 8
-}</component>
-  <component name="ProjectId" id="2a1eOwbUQbaqLutLvy5xPogDx29" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2bfCkL1m0kx4L4J8PucxjYyUcDY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "HTTP Request.generated-requests | #7.executor": "Run",
-    "JUnit.AssistantServiceTest.generateCompletion.executor": "Run",
-    "JUnit.AssistantTest.modifyAssistant.executor": "Run",
-    "JUnit.AssistantTest.retrieveAssistant.executor": "Run",
-    "JUnit.CompletionTest.createCompletion.executor": "Run",
-    "JUnit.CompletionTest.streamChatCompletion (1).executor": "Run",
-    "JUnit.CompletionTest.streamChatCompletion.executor": "Debug",
-    "JUnit.OkHttpFitLifeConfigTest._connectToCloudinary.executor": "Debug",
-    "JUnit.TrainerServiceTest.createChatStream.executor": "Run",
-    "JUnit.TrainerServiceTest.createCompletion.executor": "Run",
-    "JUnit.TrainerServiceTest.streamChatCompletion.executor": "Run",
-    "Maven.FitLife [clean].executor": "Run",
-    "Maven.FitLife [package].executor": "Run",
-    "Maven.FitLife [verify].executor": "Run",
-    "Maven.central-platform [clean].executor": "Run",
-    "Maven.central-platform [package].executor": "Run",
-    "Maven.fitlife-app [clean].executor": "Run",
-    "Maven.fitlife-app [compile].executor": "Run",
-    "Maven.fitlife-app [install].executor": "Run",
-    "Maven.fitlife-app [package].executor": "Run",
-    "Maven.trainer-ai [install].executor": "Run",
-    "Maven.trainer-ai [package].executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.FitLife.executor": "Run",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "Spring Boot.FitlifeEurekaApplication.executor": "Run",
+    "Spring Boot.FitlifeGatewayApplication.executor": "Run",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "feature/trainer-ai",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "17",
+    "git-widget-placeholder": "feature/zuul-proxy",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IntellijProject/Backend",
+    "last_opened_file_path": "C:/VSC/FitLife/fitlife-gateway",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -106,134 +290,39 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.25632185",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
-  },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
-    ]
   }
 }]]></component>
-  <component name="ReactorSettings">
-    <option name="notificationShown" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IntellijProject\Backend\trainer-ai\src\main\java\com\trainer\models\api" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IntellijProject\Backend\fitlife-app" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.fitlife.app.config" />
-      <recent name="com.fitlife.app.Service.Trainer.Assistant" />
-      <recent name="com.fitlife.app.Service.Trainer" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.fitlife.app.service.trainer" />
-      <recent name="com.fitlife.app.Service.Trainer" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Spring Boot.FitLife">
-    <configuration name="generated-requests | #7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="7" requestIdentifier="#7" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="AssistantServiceTest.generateCompletion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="fitlife-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fitlife.app.Service.Trainer.Assistant.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fitlife.app.Service.Trainer.Assistant" />
-      <option name="MAIN_CLASS_NAME" value="com.fitlife.app.Service.Trainer.Assistant.AssistantServiceTest" />
-      <option name="METHOD_NAME" value="generateCompletion" />
-      <option name="TEST_OBJECT" value="method" />
+  <component name="RunManager" selected="Spring Boot.FitlifeGatewayApplication">
+    <configuration name="FitlifeEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="fitlife-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitlife.eureka.FitlifeEurekaApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletionTest.streamChatCompletion (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="fitlife-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fitlife.app.Service.Trainer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fitlife.app.Service.Trainer" />
-      <option name="MAIN_CLASS_NAME" value="com.fitlife.app.Service.Trainer.CompletionTest" />
-      <option name="METHOD_NAME" value="streamChatCompletion" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="FitlifeGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="fitlife-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitlife.gateway.FitlifeGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletionTest.streamChatCompletion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="trainer-ai" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.trainer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.trainer" />
-      <option name="MAIN_CLASS_NAME" value="com.trainer.CompletionTest" />
-      <option name="METHOD_NAME" value="streamChatCompletion" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OkHttpFitLifeConfigTest._connectToCloudinary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="fitlife-app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fitlife.app.config.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fitlife.app.config" />
-      <option name="MAIN_CLASS_NAME" value="com.fitlife.app.config.OkHttpFitLifeConfigTest" />
-      <option name="METHOD_NAME" value="_connectToCloudinary" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FitLife" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="FitnessAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="fitlife-app" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.fitlife.app.FitnessAppApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="HTTP Request.generated-requests | #7" />
-      <item itemvalue="JUnit.OkHttpFitLifeConfigTest._connectToCloudinary" />
-      <item itemvalue="JUnit.AssistantServiceTest.generateCompletion" />
-      <item itemvalue="JUnit.CompletionTest.streamChatCompletion (1)" />
-      <item itemvalue="JUnit.CompletionTest.streamChatCompletion" />
-      <item itemvalue="Spring Boot.FitLife" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.OkHttpFitLifeConfigTest._connectToCloudinary" />
-        <item itemvalue="HTTP Request.generated-requests | #7" />
-        <item itemvalue="JUnit.CompletionTest.streamChatCompletion (1)" />
-        <item itemvalue="JUnit.AssistantServiceTest.generateCompletion" />
-        <item itemvalue="JUnit.CompletionTest.streamChatCompletion" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
         <option value="jdk-20.0.2-corretto-20.0.2.1-3183f394aec4-907a2361" />
       </set>
     </attachedChunks>
@@ -241,72 +330,26 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9d06ca6-e544-4ca7-89da-2274c04f5a1c" name="Changes" comment="" />
-      <created>1703490485985</created>
+      <changelist id="2e7ef3ef-1f65-4204-ba99-4623bb3a4992" name="Changes" comment="" />
+      <created>1706596887548</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1703490485985</updated>
-      <workItem from="1703490491788" duration="12259000" />
-      <workItem from="1703570391844" duration="1917000" />
-      <workItem from="1704177069454" duration="3101000" />
-      <workItem from="1704181533289" duration="24994000" />
-      <workItem from="1704451365816" duration="2476000" />
-      <workItem from="1704453877314" duration="127000" />
-      <workItem from="1704454038656" duration="37781000" />
-      <workItem from="1704709978869" duration="14694000" />
-      <workItem from="1704783488528" duration="516000" />
-      <workItem from="1704797274619" duration="398000" />
-      <workItem from="1705491777591" duration="21000" />
-      <workItem from="1705491856787" duration="1400000" />
-      <workItem from="1706428330079" duration="16513000" />
-      <workItem from="1706525171360" duration="1437000" />
-      <workItem from="1706528171193" duration="4507000" />
+      <updated>1706596887548</updated>
+      <workItem from="1706596888814" duration="6835000" />
     </task>
-    <task id="LOCAL-00001" summary="fix: fix bug non-auto generate sql table">
-      <option name="closed" value="true" />
-      <created>1704386356336</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1704386356336</updated>
-    </task>
-    <task id="LOCAL-00002" summary="feat: implement run assistant api for trainer-ai module">
-      <option name="closed" value="true" />
-      <created>1704475184015</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1704475184015</updated>
-    </task>
-    <task id="LOCAL-00003" summary="feat: integrating r2dbc to run parallel with jdbc + fix reactive repo's bug">
-      <option name="closed" value="true" />
-      <created>1704475277984</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1704475277984</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fix: fixed bug of run model">
-      <option name="closed" value="true" />
-      <created>1704475424225</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1704475424225</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
-    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
     <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
     <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
     <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
-    <option featureType="dependencySupport" implementationName="executable:kubectl" />
     <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
     <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
     <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
     <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
@@ -314,41 +357,7 @@
     <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
     <option featureType="dependencySupport" implementationName="executable:docker" />
     <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
     <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="fix: fix bug non-auto generate sql table" />
-    <MESSAGE value="feat: implement run assistant api for trainer-ai module" />
-    <MESSAGE value="feat: integrating r2dbc to run parallel with jdbc + fix reactive repo's bug" />
-    <MESSAGE value="fix: fixed bug of run model" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: fixed bug of run model" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/fitlife-app/app/test/com/fitlife/app/config/OkHttpFitLifeConfigTest.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Backend$AssistantServiceTest_generateCompletion.ic" NAME="AssistantServiceTest.generateCompletion Coverage Results" MODIFIED="1704461834647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.fitlife.app.Service.Trainer.Assistant.*</FILTER>
-    </SUITE>
   </component>
 </project>

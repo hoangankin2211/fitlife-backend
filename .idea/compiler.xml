@@ -8,17 +8,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="fitlife-app" />
-        <module name="trainer-ai" />
+        <module name="fitlife-gateway" />
+        <module name="fitlife-eureka" />
+        <module name="fitlife-trainer-ai" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="FitLife" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="fitlife-app" options="-parameters" />
-      <module name="trainer-ai" options="-parameters" />
+      <module name="fitlife-eureka" options="-parameters" />
+      <module name="fitlife-gateway" options="-parameters" />
+      <module name="fitlife-trainer-ai" options="-parameters" />
     </option>
   </component>
 </project>

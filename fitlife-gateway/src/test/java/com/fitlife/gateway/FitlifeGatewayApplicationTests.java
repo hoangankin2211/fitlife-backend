@@ -1,4 +1,4 @@
-package com.fitlife.fitlifegateway;
+package com.fitlife.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

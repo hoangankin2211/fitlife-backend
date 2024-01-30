@@ -10,13 +10,15 @@
 
     <modules>
         <module>fitlife-app</module>
-        <module>trainer-ai</module>
+        <module>fitlife-trainer-ai</module>
+        <module>fitlife-eureka</module>
+        <module>fitlife-gateway</module>
     </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.1.2</version>
+        <version>3.2.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 

@@ -9,7 +9,7 @@
     </parent>
     <artifactId>fitlife-trainer-ai</artifactId>
     <version>1.0.0</version>
-    <name>trainer-ai</name>
+    <name>fitlife-trainer-ai</name>
     <description>Personal Trainer for FitLife</description>
     <packaging>jar</packaging>
 

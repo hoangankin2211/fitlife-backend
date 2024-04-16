@@ -10,8 +10,8 @@ To get started with this project, follow these steps:
 2. Navigate to the project directory:
 3. Build the project using Maven:
 4. Run the application:
-5. Access the application in your web browser at [http://localhost:8080](http://localhost:8080).
 
+   
 ## Features
 
 - **RESTful APIs**: The project provides a set of RESTful APIs for various functionalities.
